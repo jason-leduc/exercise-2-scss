@@ -53,3 +53,26 @@ h1 {
   padding-left: 1em;
   padding-top: 1em;
 }
+
+p {
+  text-align: left;
+  margin: 0.5em 0;
+  color: #000;
+}
+
+a {
+  text-decoration: none;
+  text-align: left;
+}
+
+i {
+  vertical-align: middle;
+  text-align: left;
+  margin: 0 45%;
+  color: #000;
+  font-size: 3em;
+}
+
+i:hover {
+  color: #b30000;
+}
