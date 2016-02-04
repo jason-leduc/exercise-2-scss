@@ -35,3 +35,13 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+  background-color: #fff;
+}
+
+.banner {
+  width: 75%;
+  padding-left: 18em;
+}
