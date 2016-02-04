@@ -24,8 +24,7 @@ body {
 }
 
 .banner {
-	  width: 75%;
-      padding-left: 18em;
+	  width: 90%;
 	}
 
 h1 {
@@ -37,19 +36,19 @@ h1 {
 }
 
 p {
-  text-align: $left;
+  text-align: $center;
   margin: 0.5em 0;
   color: $white;
 }
 
 a {
   text-decoration: none;
-  text-align: $left;
+  text-align: $center;
 }
 
 i {
   vertical-align: middle;
-  text-align: $left;
+  text-align: $center;
   margin: 0 45%;
   color: $white;
   font-size: 3em;
