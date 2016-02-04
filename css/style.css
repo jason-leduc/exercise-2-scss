@@ -38,7 +38,7 @@ html {
 
 body {
   margin: 0;
-  background-color: #fff;
+  background-color: #000;
 }
 
 .banner {
@@ -48,7 +48,7 @@ body {
 
 h1 {
   text-align: left;
-  color: #000;
+  color: #fff;
   font-weight: 600;
   padding-left: 1em;
   padding-top: 1em;
@@ -57,7 +57,7 @@ h1 {
 p {
   text-align: left;
   margin: 0.5em 0;
-  color: #000;
+  color: #fff;
 }
 
 a {
@@ -69,7 +69,7 @@ i {
   vertical-align: middle;
   text-align: left;
   margin: 0 45%;
-  color: #000;
+  color: #fff;
   font-size: 3em;
 }
 
